@@ -1,3 +1,4 @@
+// Wrapped inside container so we don't have to worry about someone trying to execute in console.
 (() => {
   const request = new XMLHttpRequest();
 

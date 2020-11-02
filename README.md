@@ -17,3 +17,7 @@ We are more than welcoming to any pull requests, we believe that allowing others
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## APIs
+
+[CHUCKNORRIS.IO](https://api.chucknorris.io)
