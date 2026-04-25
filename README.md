@@ -21,3 +21,6 @@ We are more than welcoming to any pull requests, we believe that allowing others
 ## APIs
 
 [CHUCKNORRIS.IO](https://api.chucknorris.io)
+
+## Condolences (edit)
+On March 19, 2026 the world found out that we unfortunately lost Chuck Norris. This project will remain on my public profile indefinitely in honor of him. May he rest in peace, he lived to be a ripe 86 years old. My heart goes out to his family.
